@@ -32,4 +32,13 @@
     font-family: cursive;
 }
 
-
+table{
+    border-collapse: collapse;
+    border-spacing: 3;
+    width: 80%;
+    margin: 20px, 40px, 65px;
+    border: 1.25px solid #f30c0c;
+}
+tr:nth-child(even) {
+    background-color: #fd730a;
+}
