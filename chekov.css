@@ -1,5 +1,5 @@
 .speech{
-     font-family'Times New Roman';
+     font-family:'Times New Roman';
      font-size: small;
      color:black;
 }
@@ -42,3 +42,10 @@ table{
 tr:nth-child(even) {
     background-color: #fd730a;
 }
+.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f1f7dd;
+  }
