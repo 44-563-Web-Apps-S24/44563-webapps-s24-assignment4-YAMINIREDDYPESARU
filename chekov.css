@@ -21,7 +21,11 @@
     font-size:small;
     text-shadow: 2.2px 1.8px 4.5px  rgba(20,241,86,0.4730);
 }
-
+.name.Marina:hover{
+    color:rgb(34, 164, 178);
+    text-shadow: 3px 3px 4px blue;
+    border : 2px dashed orange;
+  }
 .Marina{
     color:rgb(87, 234, 126);
     font-family:'courier New';
